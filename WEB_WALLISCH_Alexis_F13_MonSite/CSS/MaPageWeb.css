@@ -1,0 +1,42 @@
+h1{					/*un commentaire en CSS se fait de cette manière*/
+	text-align: center;
+	font-family: Tolkien, "Monotype Corsiva", Arial, "Arial Black", "Comic Sans MS", "Courier New", Georgia, Impact, "Times New Roman", "Trebuchet MS", Verdana, Serif;
+	font-size: 50px;
+	color: goldenrod;
+	background-color: black;
+	border-radius: 10px;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+h2{
+	font-family: "Monotype Corsiva", Arial, "Arial Black", "Comic Sans MS", "Courier New", Georgia, Impact, "Times New Roman", "Trebuchet MS", Verdana, Serif;
+	font-size: 27px;
+}
+h3{
+	font-family: "Monotype Corsiva", Arial, "Arial Black", "Comic Sans MS", "Courier New", Georgia, Impact, "Times New Roman", "Trebuchet MS", Verdana, Serif;
+	font-size: 22px;
+}
+p{
+	font-family: "Monotype Corsiva", Arial, "Arial Black", "Comic Sans MS", "Courier New", Georgia, Impact, "Times New Roman", "Trebuchet MS", Verdana, Serif;
+	font-size: 19px;
+}
+figure{
+	text-align: center;
+}
+body{
+	background-color: lightblue;
+}
+.titre{
+	color: goldenrod;
+	text-align: center;
+	background-color: black;
+	border-radius: 10px;
+}
+table{
+	border-collapse: collapse;
+	border: 3px solid black;
+	color: black;
+}
+td{
+	border: 1px solid black;
+}
